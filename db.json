@@ -1,0 +1,28 @@
+{
+	"users":[
+	{
+		"id":1,
+        "username":"admin",
+        "password":"dadada",
+        "sitesi":"admin"
+    },
+    {
+		"id":2,
+        "username":"yunus",
+        "password":"dadada",
+        "sitesi":"deneme"
+    },
+    {
+		"id":3,
+        "username":"mehmet",
+        "password":"mehmetbaş",
+        "sitesi":"ozgur"
+    },
+    {
+		"id":4,
+        "username":"yasin",
+        "password":"321",
+        "sitesi":"opar"
+    }
+	]
+}
